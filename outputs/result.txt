@@ -1,0 +1,2 @@
+Detected number: 448938
+Confidence per digit: [0.92, 0.96, 0.99, 0.69, 0.95, 0.72]
